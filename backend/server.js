@@ -21,6 +21,7 @@ const { sanitizeRequest, blockSuspiciousRequests } = require('./middleware/valid
 // Routes
 const healthRoutes = require('./routes/health');
 const apiRoutes = require('./routes/api');
+const contactRoutes = require('./routes/contact');
 
 // Initialize Express app
 const app = express();
@@ -94,6 +95,9 @@ app.use('/api/health', healthRoutes);
 
 // Main API routes
 app.use('/api', apiRoutes);
+
+// Contact form route
+app.use('/api/contact', contactRoutes);
 
 // Root endpoint
 app.get('/', (req, res) => {
