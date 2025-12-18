@@ -14,9 +14,30 @@
     <link rel="stylesheet" href="css/styles.css">
     <link rel="icon" type="image/png" href="favicon.png">
     <link rel="apple-touch-icon" href="favicon.png">
+    <!-- Google AdSense -->
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1605089091983411"
+        crossorigin="anonymous"></script>
 </head>
 
 <body>
+    <!-- Ad Popup Overlay -->
+    <div class="ad-popup-overlay" id="adPopupOverlay">
+        <div class="ad-popup">
+            <div class="ad-popup-header">
+                <span class="ad-timer" id="adTimer">Skip in 5s</span>
+                <button class="ad-close-btn" id="adCloseBtn" style="display: none;">✕</button>
+            </div>
+            <div class="ad-content">
+                <!-- Google AdSense Ad Unit -->
+                <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-1605089091983411"
+                    data-ad-slot="2474964915" data-ad-format="auto" data-full-width-responsive="true"></ins>
+                <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                </script>
+            </div>
+        </div>
+    </div>
+
     <!-- Animated Background -->
     <div class="bg-animation">
         <div class="bg-gradient"></div>
@@ -228,6 +249,7 @@
     <script src="js/calculators/lifeplanning.js"></script>
     <script src="js/search.js"></script>
     <script src="js/contact.js"></script>
+    <script src="js/adpopup.js"></script>
     <script src="js/app.js"></script>
 </body>
 
