@@ -7,7 +7,7 @@
     <!-- Homepage -->
     <url>
         <loc>https://calc-hub-livid.vercel.app/</loc>
-        <lastmod>2024-12-18</lastmod>
+        <lastmod>2025-12-18</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -15,7 +15,7 @@
     <!-- Categories Section -->
     <url>
         <loc>https://calc-hub-livid.vercel.app/#categories</loc>
-        <lastmod>2024-12-18</lastmod>
+        <lastmod>2025-12-18</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
     </url>
@@ -23,7 +23,7 @@
     <!-- Student & Education Calculators -->
     <url>
         <loc>https://calc-hub-livid.vercel.app/#student</loc>
-        <lastmod>2024-12-18</lastmod>
+        <lastmod>2025-12-18</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -31,7 +31,7 @@
     <!-- Finance & Money Calculators -->
     <url>
         <loc>https://calc-hub-livid.vercel.app/#finance</loc>
-        <lastmod>2024-12-18</lastmod>
+        <lastmod>2025-12-18</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -39,7 +39,7 @@
     <!-- Health & Fitness Calculators -->
     <url>
         <loc>https://calc-hub-livid.vercel.app/#health</loc>
-        <lastmod>2024-12-18</lastmod>
+        <lastmod>2025-12-18</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -47,7 +47,7 @@
     <!-- Math & Basic Calculators -->
     <url>
         <loc>https://calc-hub-livid.vercel.app/#math</loc>
-        <lastmod>2024-12-18</lastmod>
+        <lastmod>2025-12-18</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -55,7 +55,7 @@
     <!-- Unit Conversion Calculators -->
     <url>
         <loc>https://calc-hub-livid.vercel.app/#converter</loc>
-        <lastmod>2024-12-18</lastmod>
+        <lastmod>2025-12-18</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -63,7 +63,7 @@
     <!-- Work & Productivity Calculators -->
     <url>
         <loc>https://calc-hub-livid.vercel.app/#work</loc>
-        <lastmod>2024-12-18</lastmod>
+        <lastmod>2025-12-18</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
@@ -71,7 +71,7 @@
     <!-- Daily Life Calculators -->
     <url>
         <loc>https://calc-hub-livid.vercel.app/#daily</loc>
-        <lastmod>2024-12-18</lastmod>
+        <lastmod>2025-12-18</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
@@ -79,7 +79,7 @@
     <!-- Real Estate Calculators -->
     <url>
         <loc>https://calc-hub-livid.vercel.app/#realestate</loc>
-        <lastmod>2024-12-18</lastmod>
+        <lastmod>2025-12-18</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
@@ -87,7 +87,7 @@
     <!-- Vehicle & Transport Calculators -->
     <url>
         <loc>https://calc-hub-livid.vercel.app/#vehicle</loc>
-        <lastmod>2024-12-18</lastmod>
+        <lastmod>2025-12-18</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
@@ -95,7 +95,7 @@
     <!-- Digital & Tech Calculators -->
     <url>
         <loc>https://calc-hub-livid.vercel.app/#digital</loc>
-        <lastmod>2024-12-18</lastmod>
+        <lastmod>2025-12-18</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
@@ -103,7 +103,7 @@
     <!-- Physics Calculators -->
     <url>
         <loc>https://calc-hub-livid.vercel.app/#science</loc>
-        <lastmod>2024-12-18</lastmod>
+        <lastmod>2025-12-18</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
@@ -111,7 +111,7 @@
     <!-- Chemistry Calculators -->
     <url>
         <loc>https://calc-hub-livid.vercel.app/#chemistry</loc>
-        <lastmod>2024-12-18</lastmod>
+        <lastmod>2025-12-18</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
@@ -119,7 +119,7 @@
     <!-- Biology Calculators -->
     <url>
         <loc>https://calc-hub-livid.vercel.app/#biology</loc>
-        <lastmod>2024-12-18</lastmod>
+        <lastmod>2025-12-18</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
@@ -127,7 +127,7 @@
     <!-- Engineering Calculators -->
     <url>
         <loc>https://calc-hub-livid.vercel.app/#engineering</loc>
-        <lastmod>2024-12-18</lastmod>
+        <lastmod>2025-12-18</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
@@ -135,7 +135,7 @@
     <!-- Weather Calculators -->
     <url>
         <loc>https://calc-hub-livid.vercel.app/#weather</loc>
-        <lastmod>2024-12-18</lastmod>
+        <lastmod>2025-12-18</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
@@ -143,7 +143,7 @@
     <!-- Legal Calculators -->
     <url>
         <loc>https://calc-hub-livid.vercel.app/#legal</loc>
-        <lastmod>2024-12-18</lastmod>
+        <lastmod>2025-12-18</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
@@ -151,7 +151,7 @@
     <!-- Accounting Calculators -->
     <url>
         <loc>https://calc-hub-livid.vercel.app/#accounting</loc>
-        <lastmod>2024-12-18</lastmod>
+        <lastmod>2025-12-18</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
@@ -159,7 +159,7 @@
     <!-- Psychology Calculators -->
     <url>
         <loc>https://calc-hub-livid.vercel.app/#psychology</loc>
-        <lastmod>2024-12-18</lastmod>
+        <lastmod>2025-12-18</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
@@ -167,7 +167,7 @@
     <!-- Manufacturing Calculators -->
     <url>
         <loc>https://calc-hub-livid.vercel.app/#manufacturing</loc>
-        <lastmod>2024-12-18</lastmod>
+        <lastmod>2025-12-18</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
@@ -175,7 +175,7 @@
     <!-- Travel Calculators -->
     <url>
         <loc>https://calc-hub-livid.vercel.app/#travel</loc>
-        <lastmod>2024-12-18</lastmod>
+        <lastmod>2025-12-18</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
@@ -183,7 +183,7 @@
     <!-- Statistics Calculators -->
     <url>
         <loc>https://calc-hub-livid.vercel.app/#statistics</loc>
-        <lastmod>2024-12-18</lastmod>
+        <lastmod>2025-12-18</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
@@ -191,7 +191,7 @@
     <!-- Aptitude Calculators -->
     <url>
         <loc>https://calc-hub-livid.vercel.app/#aptitude</loc>
-        <lastmod>2024-12-18</lastmod>
+        <lastmod>2025-12-18</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
@@ -199,7 +199,7 @@
     <!-- Textile Calculators -->
     <url>
         <loc>https://calc-hub-livid.vercel.app/#textile</loc>
-        <lastmod>2024-12-18</lastmod>
+        <lastmod>2025-12-18</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
@@ -207,7 +207,7 @@
     <!-- Agriculture Calculators -->
     <url>
         <loc>https://calc-hub-livid.vercel.app/#agriculture</loc>
-        <lastmod>2024-12-18</lastmod>
+        <lastmod>2025-12-18</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
@@ -215,7 +215,7 @@
     <!-- Construction Calculators -->
     <url>
         <loc>https://calc-hub-livid.vercel.app/#construction</loc>
-        <lastmod>2024-12-18</lastmod>
+        <lastmod>2025-12-18</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
@@ -223,7 +223,7 @@
     <!-- Cooking Calculators -->
     <url>
         <loc>https://calc-hub-livid.vercel.app/#cooking</loc>
-        <lastmod>2024-12-18</lastmod>
+        <lastmod>2025-12-18</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
@@ -231,7 +231,7 @@
     <!-- Gaming Calculators -->
     <url>
         <loc>https://calc-hub-livid.vercel.app/#gaming</loc>
-        <lastmod>2024-12-18</lastmod>
+        <lastmod>2025-12-18</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
@@ -239,7 +239,7 @@
     <!-- Life Planning Calculators -->
     <url>
         <loc>https://calc-hub-livid.vercel.app/#lifeplanning</loc>
-        <lastmod>2024-12-18</lastmod>
+        <lastmod>2025-12-18</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
