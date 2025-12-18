@@ -8,7 +8,7 @@
 
     // API endpoint - change this based on your deployment
     const API_BASE_URL = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1' || window.location.protocol === 'file:'
-        ? 'http://localhost:3000/api'
+        ? 'http://localhost:3001/api'
         : 'https://your-backend-url.com/api'; // Update this with your actual deployed backend URL
 
     // DOM Elements

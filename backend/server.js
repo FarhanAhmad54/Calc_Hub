@@ -44,7 +44,8 @@ app.use(blockAttackPaths);
 app.use(cors({
     origin: (origin, callback) => {
         // Allow requests with no origin (mobile apps, curl, etc.)
-        if (!origin) return callback(null, true);
+        // Also allow 'null' origin which comes from file:// protocol
+        if (!origin || origin === 'null') return callback(null, true);
 
         // Check if origin is allowed
         const allowedOrigins = config.cors.allowedOrigins;
@@ -93,11 +94,11 @@ app.use(apiLimiter);
 // Health check routes (no rate limiting for monitoring)
 app.use('/api/health', healthRoutes);
 
+// Contact form route (must come before generic /api routes)
+app.use('/api/contact', contactRoutes);
+
 // Main API routes
 app.use('/api', apiRoutes);
-
-// Contact form route
-app.use('/api/contact', contactRoutes);
 
 // Root endpoint
 app.get('/', (req, res) => {
