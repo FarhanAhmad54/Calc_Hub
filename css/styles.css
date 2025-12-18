@@ -383,6 +383,8 @@ body {
 /* Popular Dropdown */
 .nav-dropdown {
     position: relative;
+    display: flex;
+    align-items: center;
 }
 
 .popular-dropdown {
