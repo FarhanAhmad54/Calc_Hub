@@ -177,7 +177,16 @@ const CalcHub = {
             card.addEventListener('click', () => {
                 const catId = card.dataset.category;
                 const category = this.categories.find(c => c.id === catId);
-                if (category) this.showCategory(category);
+                if (category) {
+                    // Show category ad first, then show category after user closes ad
+                    if (typeof window.showCategoryAd === 'function') {
+                        window.showCategoryAd(() => {
+                            this.showCategory(category);
+                        });
+                    } else {
+                        this.showCategory(category);
+                    }
+                }
             });
         });
     },
