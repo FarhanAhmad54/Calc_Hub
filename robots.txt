@@ -1,12 +1,12 @@
 # CalcHub - robots.txt
-# https://ultimatecalchub.netlify.app
+# https://calc-hub-livid.vercel.app
 
 # Allow all robots
 User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://ultimatecalchub.netlify.app/sitemap.xml
+Sitemap: https://calc-hub-livid.vercel.app/sitemap.xml
 
 # Crawl-delay for polite crawling
 Crawl-delay: 1

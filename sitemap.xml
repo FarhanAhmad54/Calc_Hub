@@ -6,7 +6,7 @@
     
     <!-- Homepage -->
     <url>
-        <loc>https://ultimatecalchub.netlify.app/</loc>
+        <loc>https://calc-hub-livid.vercel.app/</loc>
         <lastmod>2024-12-18</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
@@ -14,7 +14,7 @@
     
     <!-- Categories Section -->
     <url>
-        <loc>https://ultimatecalchub.netlify.app/#categories</loc>
+        <loc>https://calc-hub-livid.vercel.app/#categories</loc>
         <lastmod>2024-12-18</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
@@ -22,7 +22,7 @@
     
     <!-- Student & Education Calculators -->
     <url>
-        <loc>https://ultimatecalchub.netlify.app/#student</loc>
+        <loc>https://calc-hub-livid.vercel.app/#student</loc>
         <lastmod>2024-12-18</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -30,7 +30,7 @@
     
     <!-- Finance & Money Calculators -->
     <url>
-        <loc>https://ultimatecalchub.netlify.app/#finance</loc>
+        <loc>https://calc-hub-livid.vercel.app/#finance</loc>
         <lastmod>2024-12-18</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -38,7 +38,7 @@
     
     <!-- Health & Fitness Calculators -->
     <url>
-        <loc>https://ultimatecalchub.netlify.app/#health</loc>
+        <loc>https://calc-hub-livid.vercel.app/#health</loc>
         <lastmod>2024-12-18</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -46,7 +46,7 @@
     
     <!-- Math & Basic Calculators -->
     <url>
-        <loc>https://ultimatecalchub.netlify.app/#math</loc>
+        <loc>https://calc-hub-livid.vercel.app/#math</loc>
         <lastmod>2024-12-18</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -54,7 +54,7 @@
     
     <!-- Unit Conversion Calculators -->
     <url>
-        <loc>https://ultimatecalchub.netlify.app/#converter</loc>
+        <loc>https://calc-hub-livid.vercel.app/#converter</loc>
         <lastmod>2024-12-18</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -62,7 +62,7 @@
     
     <!-- Work & Productivity Calculators -->
     <url>
-        <loc>https://ultimatecalchub.netlify.app/#work</loc>
+        <loc>https://calc-hub-livid.vercel.app/#work</loc>
         <lastmod>2024-12-18</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
@@ -70,7 +70,7 @@
     
     <!-- Daily Life Calculators -->
     <url>
-        <loc>https://ultimatecalchub.netlify.app/#daily</loc>
+        <loc>https://calc-hub-livid.vercel.app/#daily</loc>
         <lastmod>2024-12-18</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
@@ -78,7 +78,7 @@
     
     <!-- Real Estate Calculators -->
     <url>
-        <loc>https://ultimatecalchub.netlify.app/#realestate</loc>
+        <loc>https://calc-hub-livid.vercel.app/#realestate</loc>
         <lastmod>2024-12-18</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
@@ -86,7 +86,7 @@
     
     <!-- Vehicle & Transport Calculators -->
     <url>
-        <loc>https://ultimatecalchub.netlify.app/#vehicle</loc>
+        <loc>https://calc-hub-livid.vercel.app/#vehicle</loc>
         <lastmod>2024-12-18</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
@@ -94,7 +94,7 @@
     
     <!-- Digital & Tech Calculators -->
     <url>
-        <loc>https://ultimatecalchub.netlify.app/#digital</loc>
+        <loc>https://calc-hub-livid.vercel.app/#digital</loc>
         <lastmod>2024-12-18</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
@@ -102,7 +102,7 @@
     
     <!-- Physics Calculators -->
     <url>
-        <loc>https://ultimatecalchub.netlify.app/#science</loc>
+        <loc>https://calc-hub-livid.vercel.app/#science</loc>
         <lastmod>2024-12-18</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
@@ -110,7 +110,7 @@
     
     <!-- Chemistry Calculators -->
     <url>
-        <loc>https://ultimatecalchub.netlify.app/#chemistry</loc>
+        <loc>https://calc-hub-livid.vercel.app/#chemistry</loc>
         <lastmod>2024-12-18</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
@@ -118,7 +118,7 @@
     
     <!-- Biology Calculators -->
     <url>
-        <loc>https://ultimatecalchub.netlify.app/#biology</loc>
+        <loc>https://calc-hub-livid.vercel.app/#biology</loc>
         <lastmod>2024-12-18</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
@@ -126,7 +126,7 @@
     
     <!-- Engineering Calculators -->
     <url>
-        <loc>https://ultimatecalchub.netlify.app/#engineering</loc>
+        <loc>https://calc-hub-livid.vercel.app/#engineering</loc>
         <lastmod>2024-12-18</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
@@ -134,7 +134,7 @@
     
     <!-- Weather Calculators -->
     <url>
-        <loc>https://ultimatecalchub.netlify.app/#weather</loc>
+        <loc>https://calc-hub-livid.vercel.app/#weather</loc>
         <lastmod>2024-12-18</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
@@ -142,7 +142,7 @@
     
     <!-- Legal Calculators -->
     <url>
-        <loc>https://ultimatecalchub.netlify.app/#legal</loc>
+        <loc>https://calc-hub-livid.vercel.app/#legal</loc>
         <lastmod>2024-12-18</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
@@ -150,7 +150,7 @@
     
     <!-- Accounting Calculators -->
     <url>
-        <loc>https://ultimatecalchub.netlify.app/#accounting</loc>
+        <loc>https://calc-hub-livid.vercel.app/#accounting</loc>
         <lastmod>2024-12-18</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
@@ -158,7 +158,7 @@
     
     <!-- Psychology Calculators -->
     <url>
-        <loc>https://ultimatecalchub.netlify.app/#psychology</loc>
+        <loc>https://calc-hub-livid.vercel.app/#psychology</loc>
         <lastmod>2024-12-18</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
@@ -166,7 +166,7 @@
     
     <!-- Manufacturing Calculators -->
     <url>
-        <loc>https://ultimatecalchub.netlify.app/#manufacturing</loc>
+        <loc>https://calc-hub-livid.vercel.app/#manufacturing</loc>
         <lastmod>2024-12-18</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
@@ -174,7 +174,7 @@
     
     <!-- Travel Calculators -->
     <url>
-        <loc>https://ultimatecalchub.netlify.app/#travel</loc>
+        <loc>https://calc-hub-livid.vercel.app/#travel</loc>
         <lastmod>2024-12-18</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
@@ -182,7 +182,7 @@
     
     <!-- Statistics Calculators -->
     <url>
-        <loc>https://ultimatecalchub.netlify.app/#statistics</loc>
+        <loc>https://calc-hub-livid.vercel.app/#statistics</loc>
         <lastmod>2024-12-18</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
@@ -190,7 +190,7 @@
     
     <!-- Aptitude Calculators -->
     <url>
-        <loc>https://ultimatecalchub.netlify.app/#aptitude</loc>
+        <loc>https://calc-hub-livid.vercel.app/#aptitude</loc>
         <lastmod>2024-12-18</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
@@ -198,7 +198,7 @@
     
     <!-- Textile Calculators -->
     <url>
-        <loc>https://ultimatecalchub.netlify.app/#textile</loc>
+        <loc>https://calc-hub-livid.vercel.app/#textile</loc>
         <lastmod>2024-12-18</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
@@ -206,7 +206,7 @@
     
     <!-- Agriculture Calculators -->
     <url>
-        <loc>https://ultimatecalchub.netlify.app/#agriculture</loc>
+        <loc>https://calc-hub-livid.vercel.app/#agriculture</loc>
         <lastmod>2024-12-18</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
@@ -214,7 +214,7 @@
     
     <!-- Construction Calculators -->
     <url>
-        <loc>https://ultimatecalchub.netlify.app/#construction</loc>
+        <loc>https://calc-hub-livid.vercel.app/#construction</loc>
         <lastmod>2024-12-18</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
@@ -222,7 +222,7 @@
     
     <!-- Cooking Calculators -->
     <url>
-        <loc>https://ultimatecalchub.netlify.app/#cooking</loc>
+        <loc>https://calc-hub-livid.vercel.app/#cooking</loc>
         <lastmod>2024-12-18</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
@@ -230,7 +230,7 @@
     
     <!-- Gaming Calculators -->
     <url>
-        <loc>https://ultimatecalchub.netlify.app/#gaming</loc>
+        <loc>https://calc-hub-livid.vercel.app/#gaming</loc>
         <lastmod>2024-12-18</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
@@ -238,7 +238,7 @@
     
     <!-- Life Planning Calculators -->
     <url>
-        <loc>https://ultimatecalchub.netlify.app/#lifeplanning</loc>
+        <loc>https://calc-hub-livid.vercel.app/#lifeplanning</loc>
         <lastmod>2024-12-18</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
