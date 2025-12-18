@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CalcHub - 840+ Professional Calculators | Free Online Calculator Hub</title>
+    <meta name="description"
+        content="Access 840+ professional calculators across 28 categories for education, finance, health, engineering, gaming, cooking, and everyday life. Free online calculator hub with new calculators added monthly.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+
+<body>
+    <!-- Animated Background -->
+    <div class="bg-animation">
+        <div class="bg-gradient"></div>
+        <div class="bg-particles" id="particles"></div>
+    </div>
+
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <div class="header-content">
+                <a href="#" class="logo">
+                    <span class="logo-icon">🧮</span>
+                    <span class="logo-text">Calc<span class="logo-accent">Hub</span></span>
+                </a>
+
+                <div class="search-container">
+                    <div class="search-wrapper">
+                        <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <circle cx="11" cy="11" r="8"></circle>
+                            <path d="M21 21l-4.35-4.35"></path>
+                        </svg>
+                        <input type="text" id="searchInput" class="search-input"
+                            placeholder="Search 840+ calculators..." autocomplete="off">
+                        <kbd class="search-kbd">Ctrl+K</kbd>
+                    </div>
+                    <div class="search-results" id="searchResults"></div>
+                </div>
+
+                <nav class="nav-links">
+                    <a href="#categories" class="nav-link">Categories</a>
+                    <div class="nav-dropdown">
+                        <a href="#" class="nav-link" id="popularBtn">Popular ▼</a>
+                        <div class="popular-dropdown" id="popularDropdown">
+                            <div class="popular-dropdown-header">🔥 Most Used Calculators Worldwide</div>
+                            <div class="popular-dropdown-grid" id="popularGrid"></div>
+                        </div>
+                    </div>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container">
+            <div class="hero-content">
+                <h1 class="hero-title">
+                    <span class="hero-title-line">The Ultimate</span>
+                    <span class="hero-title-gradient">Calculator Hub</span>
+                </h1>
+                <p class="hero-subtitle">Access 840+ professional calculators across 28 categories for education,
+                    finance, health, engineering, gaming, cooking, and everyday life. All free, all accurate, all in one
+                    place.</p>
+                <p class="hero-tagline"
+                    style="color: #00d4aa; font-size: 0.95rem; margin-top: 0.5rem; font-weight: 500;">🚀 New calculators
+                    added every month • Always growing, always free</p>
+                <div class="hero-stats">
+                    <div class="stat">
+                        <span class="stat-number" data-count="840">0</span>
+                        <span class="stat-label">Calculators</span>
+                    </div>
+                    <div class="stat">
+                        <span class="stat-number" data-count="28">0</span>
+                        <span class="stat-label">Categories</span>
+                    </div>
+                    <div class="stat">
+                        <span class="stat-number" data-count="100">0</span>
+                        <span class="stat-label">% Free</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Categories Section -->
+    <section class="categories" id="categories">
+        <div class="container">
+            <h2 class="section-title">Browse by Category</h2>
+            <div class="category-grid" id="categoryGrid">
+                <!-- Categories will be dynamically inserted -->
+            </div>
+        </div>
+    </section>
+
+    <!-- Calculator List Section -->
+    <section class="calculator-list" id="calculatorList">
+        <div class="container">
+            <div class="list-header">
+                <h2 class="section-title" id="currentCategory">All Calculators</h2>
+                <button class="btn-back" id="btnBack" style="display: none;">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M19 12H5M12 19l-7-7 7-7" />
+                    </svg>
+                    Back to Categories
+                </button>
+            </div>
+            <div class="calculator-grid" id="calculatorGrid">
+                <!-- Calculators will be dynamically inserted -->
+            </div>
+        </div>
+    </section>
+
+    <!-- Calculator Modal -->
+    <div class="modal-overlay" id="modalOverlay">
+        <div class="modal" id="calculatorModal">
+            <div class="modal-header">
+                <div class="modal-title-wrapper">
+                    <span class="modal-icon" id="modalIcon">🧮</span>
+                    <h3 class="modal-title" id="modalTitle">Calculator</h3>
+                </div>
+                <button class="modal-close" id="modalClose">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M18 6L6 18M6 6l12 12" />
+                    </svg>
+                </button>
+            </div>
+            <div class="modal-body" id="modalBody">
+                <!-- Calculator form will be dynamically inserted -->
+            </div>
+            <div class="modal-result" id="modalResult" style="display: none;">
+                <div class="result-label">Result</div>
+                <div class="result-value" id="resultValue">0</div>
+                <div class="result-details" id="resultDetails"></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-brand">
+                    <span class="logo-icon">🧮</span>
+                    <span class="logo-text">Calc<span class="logo-accent">Hub</span></span>
+                </div>
+                <p class="footer-text">600+ Professional Calculators • Free Forever</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="js/calculators/student.js"></script>
+    <script src="js/calculators/finance.js"></script>
+    <script src="js/calculators/health.js"></script>
+    <script src="js/calculators/math.js"></script>
+    <script src="js/calculators/converters.js"></script>
+    <script src="js/calculators/work.js"></script>
+    <script src="js/calculators/daily.js"></script>
+    <script src="js/calculators/realestate.js"></script>
+    <script src="js/calculators/vehicle.js"></script>
+    <script src="js/calculators/digital.js"></script>
+    <script src="js/calculators/science.js"></script>
+    <script src="js/calculators/chemistry.js"></script>
+    <script src="js/calculators/biology.js"></script>
+    <script src="js/calculators/engineering.js"></script>
+    <script src="js/calculators/weather.js"></script>
+    <script src="js/calculators/legal.js"></script>
+    <script src="js/calculators/accounting.js"></script>
+    <script src="js/calculators/psychology.js"></script>
+    <script src="js/calculators/manufacturing.js"></script>
+    <script src="js/calculators/travel.js"></script>
+    <script src="js/calculators/statistics.js"></script>
+    <script src="js/calculators/aptitude.js"></script>
+    <script src="js/calculators/textile.js"></script>
+    <script src="js/calculators/agriculture.js"></script>
+    <script src="js/calculators/construction.js"></script>
+    <script src="js/calculators/cooking.js"></script>
+    <script src="js/calculators/gaming.js"></script>
+    <script src="js/calculators/lifeplanning.js"></script>
+    <script src="js/search.js"></script>
+    <script src="js/app.js"></script>
+</body>
+
+</html>
