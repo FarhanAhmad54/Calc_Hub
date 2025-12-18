@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    
+    <!-- Homepage -->
+    <url>
+        <loc>https://ultimatecalchub.netlify.app/</loc>
+        <lastmod>2024-12-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    
+    <!-- Categories Section -->
+    <url>
+        <loc>https://ultimatecalchub.netlify.app/#categories</loc>
+        <lastmod>2024-12-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <!-- Student & Education Calculators -->
+    <url>
+        <loc>https://ultimatecalchub.netlify.app/#student</loc>
+        <lastmod>2024-12-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- Finance & Money Calculators -->
+    <url>
+        <loc>https://ultimatecalchub.netlify.app/#finance</loc>
+        <lastmod>2024-12-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- Health & Fitness Calculators -->
+    <url>
+        <loc>https://ultimatecalchub.netlify.app/#health</loc>
+        <lastmod>2024-12-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- Math & Basic Calculators -->
+    <url>
+        <loc>https://ultimatecalchub.netlify.app/#math</loc>
+        <lastmod>2024-12-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- Unit Conversion Calculators -->
+    <url>
+        <loc>https://ultimatecalchub.netlify.app/#converter</loc>
+        <lastmod>2024-12-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- Work & Productivity Calculators -->
+    <url>
+        <loc>https://ultimatecalchub.netlify.app/#work</loc>
+        <lastmod>2024-12-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <!-- Daily Life Calculators -->
+    <url>
+        <loc>https://ultimatecalchub.netlify.app/#daily</loc>
+        <lastmod>2024-12-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <!-- Real Estate Calculators -->
+    <url>
+        <loc>https://ultimatecalchub.netlify.app/#realestate</loc>
+        <lastmod>2024-12-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <!-- Vehicle & Transport Calculators -->
+    <url>
+        <loc>https://ultimatecalchub.netlify.app/#vehicle</loc>
+        <lastmod>2024-12-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <!-- Digital & Tech Calculators -->
+    <url>
+        <loc>https://ultimatecalchub.netlify.app/#digital</loc>
+        <lastmod>2024-12-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <!-- Physics Calculators -->
+    <url>
+        <loc>https://ultimatecalchub.netlify.app/#science</loc>
+        <lastmod>2024-12-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <!-- Chemistry Calculators -->
+    <url>
+        <loc>https://ultimatecalchub.netlify.app/#chemistry</loc>
+        <lastmod>2024-12-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <!-- Biology Calculators -->
+    <url>
+        <loc>https://ultimatecalchub.netlify.app/#biology</loc>
+        <lastmod>2024-12-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <!-- Engineering Calculators -->
+    <url>
+        <loc>https://ultimatecalchub.netlify.app/#engineering</loc>
+        <lastmod>2024-12-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <!-- Weather Calculators -->
+    <url>
+        <loc>https://ultimatecalchub.netlify.app/#weather</loc>
+        <lastmod>2024-12-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <!-- Legal Calculators -->
+    <url>
+        <loc>https://ultimatecalchub.netlify.app/#legal</loc>
+        <lastmod>2024-12-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <!-- Accounting Calculators -->
+    <url>
+        <loc>https://ultimatecalchub.netlify.app/#accounting</loc>
+        <lastmod>2024-12-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <!-- Psychology Calculators -->
+    <url>
+        <loc>https://ultimatecalchub.netlify.app/#psychology</loc>
+        <lastmod>2024-12-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <!-- Manufacturing Calculators -->
+    <url>
+        <loc>https://ultimatecalchub.netlify.app/#manufacturing</loc>
+        <lastmod>2024-12-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <!-- Travel Calculators -->
+    <url>
+        <loc>https://ultimatecalchub.netlify.app/#travel</loc>
+        <lastmod>2024-12-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <!-- Statistics Calculators -->
+    <url>
+        <loc>https://ultimatecalchub.netlify.app/#statistics</loc>
+        <lastmod>2024-12-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <!-- Aptitude Calculators -->
+    <url>
+        <loc>https://ultimatecalchub.netlify.app/#aptitude</loc>
+        <lastmod>2024-12-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <!-- Textile Calculators -->
+    <url>
+        <loc>https://ultimatecalchub.netlify.app/#textile</loc>
+        <lastmod>2024-12-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <!-- Agriculture Calculators -->
+    <url>
+        <loc>https://ultimatecalchub.netlify.app/#agriculture</loc>
+        <lastmod>2024-12-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <!-- Construction Calculators -->
+    <url>
+        <loc>https://ultimatecalchub.netlify.app/#construction</loc>
+        <lastmod>2024-12-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <!-- Cooking Calculators -->
+    <url>
+        <loc>https://ultimatecalchub.netlify.app/#cooking</loc>
+        <lastmod>2024-12-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <!-- Gaming Calculators -->
+    <url>
+        <loc>https://ultimatecalchub.netlify.app/#gaming</loc>
+        <lastmod>2024-12-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <!-- Life Planning Calculators -->
+    <url>
+        <loc>https://ultimatecalchub.netlify.app/#lifeplanning</loc>
+        <lastmod>2024-12-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+</urlset>
