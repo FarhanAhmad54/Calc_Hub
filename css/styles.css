@@ -1877,3 +1877,24 @@ body {
         padding: 20px;
     }
 }
+
+/* ==================== Adsterra Sidebar Ad ==================== */
+.adsterra-sidebar-ad {
+    position: fixed;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 999;
+    width: 160px;
+    height: 300px;
+    border-radius: var(--radius-md);
+    overflow: hidden;
+    box-shadow: var(--shadow-md);
+    background: var(--bg-card);
+}
+
+@media (max-width: 1200px) {
+    .adsterra-sidebar-ad {
+        display: none;
+    }
+}
