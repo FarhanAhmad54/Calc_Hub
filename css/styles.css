@@ -1878,13 +1878,26 @@ body {
     }
 }
 
-/* ==================== Adsterra Sidebar Ad ==================== */
-.adsterra-sidebar-ad {
+/* ==================== Adsterra Ad Towers ==================== */
+.adsterra-ad-tower {
     position: fixed;
-    right: 10px;
-    top: 50%;
-    transform: translateY(-50%);
+    top: 100px;
     z-index: 999;
+    width: 160px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.adsterra-ad-left {
+    left: 10px;
+}
+
+.adsterra-ad-right {
+    right: 10px;
+}
+
+.adsterra-ad-unit {
     width: 160px;
     height: 300px;
     border-radius: var(--radius-md);
@@ -1893,8 +1906,36 @@ body {
     background: var(--bg-card);
 }
 
-@media (max-width: 1200px) {
-    .adsterra-sidebar-ad {
+/* ==================== Footer with Ads ==================== */
+.footer-with-ads {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px 0;
+}
+
+.footer-ad {
+    width: 160px;
+    height: 300px;
+    border-radius: var(--radius-md);
+    overflow: hidden;
+    box-shadow: var(--shadow-md);
+    background: var(--bg-card);
+    flex-shrink: 0;
+}
+
+/* Hide ads on smaller screens */
+@media (max-width: 1400px) {
+    .adsterra-ad-tower {
         display: none;
+    }
+
+    .footer-ad {
+        display: none;
+    }
+
+    .footer-with-ads {
+        justify-content: center;
     }
 }
