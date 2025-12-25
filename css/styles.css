@@ -152,7 +152,16 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
     background: #fff;
+}
+
+.adsterra-popup-ad {
+    width: 160px;
+    height: 300px;
+    overflow: hidden;
+    border-radius: 8px;
 }
 
 /* ==================== Reset & Base ==================== */
